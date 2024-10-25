@@ -2,7 +2,7 @@
 # 🚀 Project: base de datos 1 
 
 Developer: [juan carlos maestre ]  
-Src Directory: /c/Users/maest/Desktop/Git/GITHUB/1065577637-UP-JUANCARLOSMAESTRE/BDI-GB-ZOO📂  
+Src Directory: Git/GITHUB/1065577637-UP-JUANCARLOSMAESTRE/BDI-GB-ZOO📂  
 Created: 23-octubre 2024🗓️  
 Last Updated: 23-octubre 2024✨  
 
